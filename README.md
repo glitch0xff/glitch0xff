@@ -47,5 +47,4 @@ will be published as development progresses.
 Technical write-ups, experiment results, and lessons learned will
 accompany the projects as they are developed.
 
-Development environment configured.
 
